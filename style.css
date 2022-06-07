@@ -1,0 +1,31 @@
+.jumbotron {
+	padding-top: 5rem;
+	background-color: #ebf2f3;
+}
+
+#projects {
+	background-color: #ebf2f3;
+}
+
+section {
+	padding-top: 5rem;
+}
+
+.github {
+	text-decoration: none;
+}
+
+.github:hover {
+	text-decoration: underline;
+}
+
+.projectLink {
+	margin-left: 2rem;
+	margin-bottom: 1.5rem;
+	text-decoration: none;
+	color: black;
+}
+
+.projectLink:hover {
+	text-decoration: underline;
+}
